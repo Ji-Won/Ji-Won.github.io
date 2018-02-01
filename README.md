@@ -1,7 +1,7 @@
 ## Ji-Won.github.io
 
-**what** Personal Website @ jiwonpy.com 
+**What** Personal Website @ jiwonpy.com 
 
 ## Motivation
 
-**why** For Better Self Branding.
+**Why** For Better Self Branding.
